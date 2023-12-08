@@ -28,11 +28,11 @@ namespace WpfApp1
 
         private void result_Click(object sender, RoutedEventArgs e)
         {
-            string str;
-            int str = Convert.ToInt32(textbox1.Text);
-            int str = Class1.Summa(str,out str);
-            textbox2.Text = str;
-            textbox3.Text = Convert.ToString(str);
+            string boba;
+            int boobs = Convert.ToInt32(textbox1.Text);
+            int biba = Class1.Summa(boobs,out boba);
+            textbox2.Text = boba;
+            textbox3.Text = Convert.ToString(biba);
         }
     }
 
